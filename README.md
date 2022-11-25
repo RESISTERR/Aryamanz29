@@ -53,8 +53,8 @@
 
 <!-- ----------- CONNECT WITH ME SECTION END ------------ -->
 
-[twitter]: https://twitter.com/AryamanZ29
-[instagram]: https://www.instagram.com/aryaman_z29/
-[linkedin]: https://www.linkedin.com/in/aryamanz29
-[github]:https://github.com/Aryamanz29
-[gmail]:mailto:aryamanz29@gmail.com
+[twitter]: https://twitter.com/anggaalfian133
+[instagram]: https://www.instagram.com/angga_alfian/
+
+[github]:https://github.com/RESISTERR
+[gmail]:anggaalfian345@gmail.com
